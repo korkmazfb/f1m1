@@ -1,6 +1,6 @@
 # Lekkere doner kebab
-	Kalfsvlees Van De Platte Bil
-1 ½	Ui
+.	Kalfsvlees Van De Platte Bil
+.1 ½	Ui
 500 milliliters	Melk
 1	Scheutje Azijn
 4	Turkse Pitabroodjes
